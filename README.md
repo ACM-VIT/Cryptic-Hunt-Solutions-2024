@@ -1,6 +1,6 @@
 # Cryptic Hunt Solutions 2024
 
-![Cryptic Hunt]() 
+![Cryptic Hunt](banner.jpg) 
 ## 📜 Overview
 
 **Cryptic Hunt 2024** is a scavenger hunt event organized by **ACM-VIT**, where participants solve cryptic riddles and puzzles to uncover hidden clues. This repository contains a comprehensive list of detailed solutions to each of the challenges presented during the event, aimed at helping fellow participants or enthusiasts understand the approach behind solving them.
